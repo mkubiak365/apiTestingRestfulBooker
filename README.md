@@ -10,6 +10,7 @@ specs - catalog with tests
 
 
 Install npm packages: npm install.
+
 Run tests: npx wdio
 
 
