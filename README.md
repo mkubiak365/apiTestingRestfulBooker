@@ -3,9 +3,11 @@ API testing for the Restful Booker services using Supertest and WebdriverIo.
 
 https://restful-booker.herokuapp.com/
 
+
 pages - catalog with files containing methods such as get, post, delete and functionalities
 
 specs - catalog with tests
+
 
 Install npm packages: npm install.
 Run tests: npx wdio
