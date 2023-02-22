@@ -17,6 +17,6 @@ Run tests: npx wdio
 The test flow:
 
 1. Load users from BookingInfo.xlsx.
-2. Create users using the POST method and save unique IDs to a file.
+2. Send users using the POST method and save unique IDs to a file.
 3. Get users using the GET service and compare them with BookingInfo.xlsx.
 4. Delete users, which were created.
